@@ -1,0 +1,465 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661676951125,14111,https://ajkerdeal.com/,200,OK,Thread Group 1-2,text,true,,3512583,42240,2,2,https://ajkerdeal.com/,2320,0,587
+1661676951125,3741,https://ajkerdeal.com/-0,200,OK,Thread Group 1-2,text,true,,215024,596,2,2,https://ajkerdeal.com/,2320,0,587
+1661676954905,3468,https://ajkerdeal.com/-1,200,OK,Thread Group 1-2,text,true,,854691,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/firebase/8.2.2/firebase.js,45,0,28
+1661676954910,3141,https://ajkerdeal.com/-2,200,OK,Thread Group 1-2,text,true,,333056,636,2,2,https://www.gstatic.com/firebasejs/8.6.2/firebase-firestore.js,765,0,652
+1661676954912,3957,https://ajkerdeal.com/-3,200,OK,Thread Group 1-2,text,true,,205202,683,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,632,0,0
+1661676954920,1605,https://ajkerdeal.com/-4,200,OK,Thread Group 1-2,text,true,,2215,680,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,1605,0,704
+1661676954921,1750,https://ajkerdeal.com/-5,200,OK,Thread Group 1-2,text,true,,17123,702,2,2,"https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",1408,0,1185
+1661676954923,3079,https://ajkerdeal.com/-6,200,OK,Thread Group 1-2,text,true,,89959,617,2,2,https://code.jquery.com/jquery-3.6.0.min.js,2535,0,1801
+1661676956526,2489,https://ajkerdeal.com/-7,200,OK,Thread Group 1-2,text,true,,44641,688,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.js,2246,0,415
+1661676956673,1106,https://ajkerdeal.com/-8,200,OK,Thread Group 1-2,text,true,,3635,689,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.css,1106,0,923
+1661676957780,145,https://ajkerdeal.com/-9,200,OK,Thread Group 1-2,text,true,,1664,690,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.theme.default.css,145,0,0
+1661676957926,2046,https://ajkerdeal.com/-10,200,OK,Thread Group 1-2,text,true,,113034,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css,339,0,0
+1661676958003,447,https://ajkerdeal.com/-11,200,OK,Thread Group 1-2,text,true,,1284,680,2,2,https://ajkerdeal.com/css/chaldal/third-party-home.css,447,0,372
+1661676958053,625,https://ajkerdeal.com/-12,200,OK,Thread Group 1-2,text,true,,17085,696,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css,624,0,352
+1661676958375,1634,https://ajkerdeal.com/-13,200,OK,Thread Group 1-2,text,true,,42032,676,2,2,https://ajkerdeal.com/newhome/css/font-awesome.css,1313,0,673
+1661676958450,759,https://ajkerdeal.com/-14,200,OK,Thread Group 1-2,text,true,,16687,677,2,2,https://ajkerdeal.com/newhome/css/themify-icons.css,759,0,0
+1661676958678,100,https://ajkerdeal.com/-15,200,OK,Thread Group 1-2,text,true,,4467,674,2,2,https://ajkerdeal.com/newhome/css/niceselect.css,100,0,0
+1661676958779,1120,https://ajkerdeal.com/-16,200,OK,Thread Group 1-2,text,true,,39141,669,2,2,https://ajkerdeal.com/newhome/css/reset.css,429,0,0
+1661676958871,1689,https://ajkerdeal.com/-17,200,OK,Thread Group 1-2,text,true,,127572,669,2,2,https://ajkerdeal.com/newhome/css/style.css,299,0,0
+1661676959015,910,https://ajkerdeal.com/-18,200,OK,Thread Group 1-2,text,true,,45047,674,2,2,https://ajkerdeal.com/newhome/css/responsive.css,297,0,0
+1661676959210,859,https://ajkerdeal.com/-19,200,OK,Thread Group 1-2,text,true,,10228,685,2,2,http://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,341,0,121
+1661676959926,372,https://ajkerdeal.com/-20,200,OK,Thread Group 1-2,bin,true,,1165,685,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,372,0,158
+1661676959944,587,https://ajkerdeal.com/-21,200,OK,Thread Group 1-2,text,true,,1413,683,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,587,0,393
+1661676959973,1400,https://ajkerdeal.com/-22,200,OK,Thread Group 1-2,bin,true,,151286,692,2,2,https://static.ajkerdeal.com/images/event/2022/eiduiadha/Event.gif,631,0,311
+1661676960009,648,https://ajkerdeal.com/-23,200,OK,Thread Group 1-2,bin,true,,22947,680,2,2,https://static.ajkerdeal.com/images/kurbanirhat/bg.jpg,523,0,332
+1661676960070,563,https://ajkerdeal.com/-24,200,OK,Thread Group 1-2,text,true,,9717,708,2,2,https://static.ajkerdeal.com/images/deals/757542106195500/s1_korbanir-cow-031.webp,546,0,407
+1661676960297,448,https://ajkerdeal.com/-25,200,OK,Thread Group 1-2,bin,true,,15748,699,2,2,https://static.ajkerdeal.com/images/deals/757542106161045/smallimage1.jpg,448,0,0
+1661676960531,196,https://ajkerdeal.com/-26,200,OK,Thread Group 1-2,bin,true,,19252,699,2,2,https://static.ajkerdeal.com/images/deals/757542106160112/smallimage1.jpg,146,0,0
+1661676960559,720,https://ajkerdeal.com/-27,200,OK,Thread Group 1-2,bin,true,,23630,699,2,2,https://static.ajkerdeal.com/images/deals/765310607171119/smallimage1.jpg,700,0,332
+1661676960632,235,https://ajkerdeal.com/-28,200,OK,Thread Group 1-2,bin,true,,30721,699,2,2,https://static.ajkerdeal.com/images/deals/142851307141858/smallimage1.jpg,158,0,0
+1661676960657,1042,https://ajkerdeal.com/-29,200,OK,Thread Group 1-2,bin,true,,23518,699,2,2,https://static.ajkerdeal.com/images/deals/765310607164918/smallimage1.jpg,456,0,0
+1661676960728,825,https://ajkerdeal.com/-30,200,OK,Thread Group 1-2,bin,true,,26145,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133929/smallimage1.jpg,411,0,0
+1661676960746,774,https://ajkerdeal.com/-31,200,OK,Thread Group 1-2,bin,true,,34849,699,2,2,https://static.ajkerdeal.com/images/deals/766130807134143/smallimage1.jpg,393,0,0
+1661676960867,926,https://ajkerdeal.com/-32,200,OK,Thread Group 1-2,bin,true,,21685,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133752/smallimage1.jpg,433,0,0
+1661676961280,771,https://ajkerdeal.com/-33,200,OK,Thread Group 1-2,bin,true,,28298,699,2,2,https://static.ajkerdeal.com/images/deals/766941007173004/smallimage1.jpg,179,0,0
+1661676961373,386,https://ajkerdeal.com/-34,200,OK,Thread Group 1-2,text,true,,28706,718,2,2,https://static.ajkerdeal.com/images/deals/766901007131914/s1_shahiwal-cross-qurbani-cow.webp,381,0,0
+1661676961520,386,https://ajkerdeal.com/-35,200,OK,Thread Group 1-2,bin,true,,19582,699,2,2,https://static.ajkerdeal.com/images/deals/768271307172454/smallimage1.jpg,195,0,0
+1661676961553,128,https://ajkerdeal.com/-36,200,OK,Thread Group 1-2,bin,true,,3118,685,2,2,https://static.ajkerdeal.com/images/ad/hotdeal/pcloader.gif,128,0,0
+1661676961682,259,https://ajkerdeal.com/-37,200,OK,Thread Group 1-2,bin,true,,28360,683,2,2,https://static.ajkerdeal.com/images/winter2021/jacket.png,124,0,0
+1661676961700,362,https://ajkerdeal.com/-38,200,OK,Thread Group 1-2,bin,true,,22968,683,2,2,https://static.ajkerdeal.com/images/winter2021/hoodie.png,205,0,0
+1661676961760,291,https://ajkerdeal.com/-39,200,OK,Thread Group 1-2,bin,true,,22197,684,2,2,https://static.ajkerdeal.com/images/winter2021/sweater.png,219,0,0
+1661676961794,601,https://ajkerdeal.com/-40,200,OK,Thread Group 1-2,bin,true,,21868,681,2,2,https://static.ajkerdeal.com/images/winter2021/shal.png,601,0,476
+1661676961906,417,https://ajkerdeal.com/-41,200,OK,Thread Group 1-2,bin,true,,23233,683,2,2,https://static.ajkerdeal.com/images/winter2021/tshirt.png,265,0,0
+1661676961942,219,https://ajkerdeal.com/-42,200,OK,Thread Group 1-2,bin,true,,18703,680,2,2,https://static.ajkerdeal.com/images/winter2021/cap.png,188,0,0
+1661676962051,273,https://ajkerdeal.com/-43,200,OK,Thread Group 1-2,bin,true,,16155,683,2,2,https://static.ajkerdeal.com/images/winter2021/gadget.png,206,0,0
+1661676962051,258,https://ajkerdeal.com/-44,200,OK,Thread Group 1-2,bin,true,,21578,683,2,2,https://static.ajkerdeal.com/images/winter2021/combol.png,175,0,0
+1661676962063,492,https://ajkerdeal.com/-45,200,OK,Thread Group 1-2,text,true,,1224,683,2,2,https://static.ajkerdeal.com/images/winter2021/arroww.svg,492,0,349
+1661676962162,183,https://ajkerdeal.com/-46,200,OK,Thread Group 1-2,text,true,,7952,682,2,2,https://static.ajkerdeal.com/images/livevideode/logo.svg,176,0,0
+1661676962309,150,https://ajkerdeal.com/-47,200,OK,Thread Group 1-2,bin,true,,6471,685,2,2,https://static.ajkerdeal.com/images/muslim-fashion/logo.png,150,0,0
+1661676962324,249,https://ajkerdeal.com/-48,200,OK,Thread Group 1-2,bin,true,,12044,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/hijab.png,205,0,0
+1661676962325,248,https://ajkerdeal.com/-49,200,OK,Thread Group 1-2,bin,true,,14034,687,2,2,https://static.ajkerdeal.com/images/muslim-fashion/khimar.png,154,0,0
+1661676962346,145,https://ajkerdeal.com/-50,200,OK,Thread Group 1-2,bin,true,,10949,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/borka.png,144,0,0
+1661676962396,1239,https://ajkerdeal.com/-51,200,OK,Thread Group 1-2,bin,true,,12991,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/abaya.png,1185,0,457
+1661676962459,172,https://ajkerdeal.com/-52,200,OK,Thread Group 1-2,bin,true,,13955,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/scarf.png,168,0,0
+1661676962491,575,https://ajkerdeal.com/-53,200,OK,Thread Group 1-2,text,true,,45344,673,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,325,0,0
+1661676962556,894,https://ajkerdeal.com/-54,200,OK,Thread Group 1-2,text,true,,90616,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js,157,0,78
+1661676962574,92,https://ajkerdeal.com/-55,200,OK,Thread Group 1-2,text,true,,7380,690,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,92,0,0
+1661676962574,655,https://ajkerdeal.com/-56,200,OK,Thread Group 1-2,text,true,,39771,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,366,0,0
+1661676962632,2604,https://ajkerdeal.com/-57,200,OK,Thread Group 1-2,text,true,,272537,679,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,1537,0,0
+1661676962667,137,https://ajkerdeal.com/-58,200,OK,Thread Group 1-2,text,true,,950,676,2,2,https://ajkerdeal.com/FinalHeader2021/js/header.js,136,0,0
+1661676962804,973,https://ajkerdeal.com/-59,200,OK,Thread Group 1-2,text,true,,144408,673,2,2,https://ajkerdeal.com/newhome/js/nicesellect.js,163,0,0
+1661676963067,74,https://ajkerdeal.com/-60,200,OK,Thread Group 1-2,text,true,,2345,670,2,2,https://ajkerdeal.com/newhome/js/scrollup.js,74,0,0
+1661676963142,117,https://ajkerdeal.com/-61,200,OK,Thread Group 1-2,text,true,,8983,668,2,2,https://ajkerdeal.com/newhome/js/active.js,117,0,0
+1661676951124,14111,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,3512583,42240,2,2,null,2320,7,587
+1661676950225,15712,https://ajkerdeal.com/,200,"Embedded resource download error:https://code.jquery.com/jquery-3.6.0.min.js code:Non HTTP response code: javax.net.ssl.SSLHandshakeException message:Non HTTP response message: Remote host terminated the handshake, ",Thread Group 1-1,text,false,,3425913,41623,2,2,https://ajkerdeal.com/,664,0,536
+1661676950225,883,https://ajkerdeal.com/-0,200,OK,Thread Group 1-1,text,true,,215024,596,2,2,https://ajkerdeal.com/,664,0,536
+1661676951251,3138,https://ajkerdeal.com/-1,200,OK,Thread Group 1-1,text,true,,854686,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/firebase/8.2.2/firebase.js,78,0,55
+1661676951253,2468,https://ajkerdeal.com/-2,200,OK,Thread Group 1-1,text,true,,333056,636,2,2,https://www.gstatic.com/firebasejs/8.6.2/firebase-firestore.js,801,0,250
+1661676951257,3318,https://ajkerdeal.com/-3,200,OK,Thread Group 1-1,text,true,,205202,683,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,119,0,0
+1661676951255,1625,https://ajkerdeal.com/-4,200,OK,Thread Group 1-1,text,true,,2215,680,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,1625,0,1480
+1661676951280,988,https://ajkerdeal.com/-5,200,OK,Thread Group 1-1,text,true,,17123,702,2,2,"https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",458,0,246
+1661676951275,10710,https://ajkerdeal.com/-6,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3282,0,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,10710
+1661676952503,6464,https://ajkerdeal.com/-7,200,OK,Thread Group 1-1,text,true,,44641,688,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.js,5980,0,4098
+1661676952881,618,https://ajkerdeal.com/-8,200,OK,Thread Group 1-1,text,true,,3635,689,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.css,618,0,466
+1661676953517,159,https://ajkerdeal.com/-9,200,OK,Thread Group 1-1,text,true,,1664,690,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.theme.default.css,159,0,0
+1661676953680,2163,https://ajkerdeal.com/-10,200,OK,Thread Group 1-1,text,true,,113034,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css,225,0,0
+1661676953722,1135,https://ajkerdeal.com/-11,200,OK,Thread Group 1-1,text,true,,1284,680,2,2,https://ajkerdeal.com/css/chaldal/third-party-home.css,1135,0,1067
+1661676954390,376,https://ajkerdeal.com/-12,200,OK,Thread Group 1-1,text,true,,17085,696,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css,375,0,200
+1661676954575,240,https://ajkerdeal.com/-13,200,OK,Thread Group 1-1,text,true,,42032,676,2,2,https://ajkerdeal.com/newhome/css/font-awesome.css,75,0,0
+1661676954807,91,https://ajkerdeal.com/-14,200,OK,Thread Group 1-1,text,true,,16687,677,2,2,https://ajkerdeal.com/newhome/css/themify-icons.css,91,0,0
+1661676954862,1056,https://ajkerdeal.com/-15,200,OK,Thread Group 1-1,text,true,,4467,674,2,2,https://ajkerdeal.com/newhome/css/niceselect.css,1056,0,0
+1661676954872,5447,https://ajkerdeal.com/-16,200,OK,Thread Group 1-1,text,true,,39141,669,2,2,https://ajkerdeal.com/newhome/css/reset.css,5091,0,0
+1661676954921,5474,https://ajkerdeal.com/-17,200,OK,Thread Group 1-1,text,true,,127572,669,2,2,https://ajkerdeal.com/newhome/css/style.css,3452,0,0
+1661676955928,2135,https://ajkerdeal.com/-18,200,OK,Thread Group 1-1,text,true,,45047,674,2,2,https://ajkerdeal.com/newhome/css/responsive.css,687,0,0
+1661676955984,1998,https://ajkerdeal.com/-19,200,OK,Thread Group 1-1,text,true,,10228,685,2,2,http://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,1299,0,150
+1661676957983,531,https://ajkerdeal.com/-20,200,OK,Thread Group 1-1,bin,true,,1165,685,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,531,0,391
+1661676958126,582,https://ajkerdeal.com/-21,200,OK,Thread Group 1-1,text,true,,1413,683,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,582,0,350
+1661676958514,1150,https://ajkerdeal.com/-22,200,OK,Thread Group 1-1,bin,true,,151286,692,2,2,https://static.ajkerdeal.com/images/event/2022/eiduiadha/Event.gif,560,0,0
+1661676958709,216,https://ajkerdeal.com/-23,200,OK,Thread Group 1-1,bin,true,,22947,680,2,2,https://static.ajkerdeal.com/images/kurbanirhat/bg.jpg,145,0,0
+1661676958926,180,https://ajkerdeal.com/-24,200,OK,Thread Group 1-1,text,true,,9717,708,2,2,https://static.ajkerdeal.com/images/deals/757542106195500/s1_korbanir-cow-031.webp,176,0,0
+1661676958968,1074,https://ajkerdeal.com/-25,200,OK,Thread Group 1-1,bin,true,,15748,699,2,2,https://static.ajkerdeal.com/images/deals/757542106161045/smallimage1.jpg,624,0,415
+1661676959106,793,https://ajkerdeal.com/-26,200,OK,Thread Group 1-1,bin,true,,19252,699,2,2,https://static.ajkerdeal.com/images/deals/757542106160112/smallimage1.jpg,397,0,0
+1661676959664,216,https://ajkerdeal.com/-27,200,OK,Thread Group 1-1,bin,true,,23631,699,2,2,https://static.ajkerdeal.com/images/deals/765310607171119/smallimage1.jpg,173,0,0
+1661676959880,335,https://ajkerdeal.com/-28,200,OK,Thread Group 1-1,bin,true,,30721,699,2,2,https://static.ajkerdeal.com/images/deals/142851307141858/smallimage1.jpg,273,0,0
+1661676959900,1024,https://ajkerdeal.com/-29,200,OK,Thread Group 1-1,bin,true,,23518,699,2,2,https://static.ajkerdeal.com/images/deals/765310607164918/smallimage1.jpg,217,0,0
+1661676960045,731,https://ajkerdeal.com/-30,200,OK,Thread Group 1-1,bin,true,,26145,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133929/smallimage1.jpg,589,0,0
+1661676960215,960,https://ajkerdeal.com/-31,200,OK,Thread Group 1-1,bin,true,,34849,699,2,2,https://static.ajkerdeal.com/images/deals/766130807134143/smallimage1.jpg,157,0,0
+1661676960320,1574,https://ajkerdeal.com/-32,200,OK,Thread Group 1-1,bin,true,,21685,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133752/smallimage1.jpg,896,0,426
+1661676960515,1348,https://ajkerdeal.com/-33,200,OK,Thread Group 1-1,bin,true,,28299,699,2,2,https://static.ajkerdeal.com/images/deals/766941007173004/smallimage1.jpg,918,0,231
+1661676960775,561,https://ajkerdeal.com/-34,200,OK,Thread Group 1-1,text,true,,28706,718,2,2,https://static.ajkerdeal.com/images/deals/766901007131914/s1_shahiwal-cross-qurbani-cow.webp,275,0,0
+1661676960924,305,https://ajkerdeal.com/-35,200,OK,Thread Group 1-1,bin,true,,19582,699,2,2,https://static.ajkerdeal.com/images/deals/768271307172454/smallimage1.jpg,297,0,0
+1661676961176,141,https://ajkerdeal.com/-36,200,OK,Thread Group 1-1,bin,true,,3118,685,2,2,https://static.ajkerdeal.com/images/ad/hotdeal/pcloader.gif,141,0,0
+1661676961229,459,https://ajkerdeal.com/-37,200,OK,Thread Group 1-1,bin,true,,28360,683,2,2,https://static.ajkerdeal.com/images/winter2021/jacket.png,172,0,0
+1661676961317,476,https://ajkerdeal.com/-38,200,OK,Thread Group 1-1,bin,true,,22968,683,2,2,https://static.ajkerdeal.com/images/winter2021/hoodie.png,230,0,0
+1661676961336,455,https://ajkerdeal.com/-39,200,OK,Thread Group 1-1,bin,true,,22197,684,2,2,https://static.ajkerdeal.com/images/winter2021/sweater.png,423,0,0
+1661676961689,816,https://ajkerdeal.com/-40,200,OK,Thread Group 1-1,bin,true,,21868,681,2,2,https://static.ajkerdeal.com/images/winter2021/shal.png,216,0,0
+1661676961791,417,https://ajkerdeal.com/-41,200,OK,Thread Group 1-1,bin,true,,23233,683,2,2,https://static.ajkerdeal.com/images/winter2021/tshirt.png,417,0,0
+1661676961794,647,https://ajkerdeal.com/-42,200,OK,Thread Group 1-1,bin,true,,18703,680,2,2,https://static.ajkerdeal.com/images/winter2021/cap.png,617,0,492
+1661676961864,691,https://ajkerdeal.com/-43,200,OK,Thread Group 1-1,bin,true,,16156,683,2,2,https://static.ajkerdeal.com/images/winter2021/gadget.png,211,0,0
+1661676961894,440,https://ajkerdeal.com/-44,200,OK,Thread Group 1-1,bin,true,,21578,683,2,2,https://static.ajkerdeal.com/images/winter2021/combol.png,195,0,0
+1661676961986,545,https://ajkerdeal.com/-45,200,OK,Thread Group 1-1,text,true,,1224,683,2,2,https://static.ajkerdeal.com/images/winter2021/arroww.svg,545,0,409
+1661676962208,365,https://ajkerdeal.com/-46,200,OK,Thread Group 1-1,text,true,,7952,682,2,2,https://static.ajkerdeal.com/images/livevideode/logo.svg,365,0,0
+1661676962334,455,https://ajkerdeal.com/-47,200,OK,Thread Group 1-1,bin,true,,6471,685,2,2,https://static.ajkerdeal.com/images/muslim-fashion/logo.png,455,0,240
+1661676962441,166,https://ajkerdeal.com/-48,200,OK,Thread Group 1-1,bin,true,,12044,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/hijab.png,154,0,0
+1661676962505,195,https://ajkerdeal.com/-49,200,OK,Thread Group 1-1,bin,true,,14035,687,2,2,https://static.ajkerdeal.com/images/muslim-fashion/khimar.png,179,0,0
+1661676962531,375,https://ajkerdeal.com/-50,200,OK,Thread Group 1-1,bin,true,,10949,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/borka.png,375,0,0
+1661676962555,995,https://ajkerdeal.com/-51,200,OK,Thread Group 1-1,bin,true,,12991,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/abaya.png,487,0,294
+1661676962574,439,https://ajkerdeal.com/-52,200,OK,Thread Group 1-1,bin,true,,13955,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/scarf.png,414,0,242
+1661676962608,3329,https://ajkerdeal.com/-53,200,OK,Thread Group 1-1,text,true,,45344,673,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,3271,0,3107
+1661676962701,1653,https://ajkerdeal.com/-54,200,OK,Thread Group 1-1,text,true,,90624,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js,1131,0,1110
+1661676962790,59,https://ajkerdeal.com/-55,200,OK,Thread Group 1-1,text,true,,7380,690,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,58,0,0
+1661676962849,430,https://ajkerdeal.com/-56,200,OK,Thread Group 1-1,text,true,,39771,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,225,0,0
+1661676962906,2492,https://ajkerdeal.com/-57,200,OK,Thread Group 1-1,text,true,,272537,679,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,878,0,0
+1661676963014,514,https://ajkerdeal.com/-58,200,OK,Thread Group 1-1,text,true,,950,676,2,2,https://ajkerdeal.com/FinalHeader2021/js/header.js,514,0,418
+1661676963280,882,https://ajkerdeal.com/-59,200,OK,Thread Group 1-1,text,true,,144408,673,2,2,https://ajkerdeal.com/newhome/js/nicesellect.js,213,0,0
+1661676963529,114,https://ajkerdeal.com/-60,200,OK,Thread Group 1-1,text,true,,2345,670,2,2,https://ajkerdeal.com/newhome/js/scrollup.js,114,0,0
+1661676963550,116,https://ajkerdeal.com/-61,200,OK,Thread Group 1-1,text,true,,8983,668,2,2,https://ajkerdeal.com/newhome/js/active.js,116,0,0
+1661676950136,15712,Test,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-1,,false,,3425913,41623,2,2,null,664,90,536
+1661676989049,2391,https://ajkerdeal.com/category/mens-shopping-pants-jeans,200,OK,Thread Group 1-1,text,true,,777745,17054,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,120,0,0
+1661676989049,531,https://ajkerdeal.com/category/mens-shopping-pants-jeans-0,200,OK,Thread Group 1-1,text,true,,169610,682,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,120,0,0
+1661676989601,68,https://ajkerdeal.com/category/mens-shopping-pants-jeans-1,304,Not Modified,Thread Group 1-1,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,0
+1661676989603,388,https://ajkerdeal.com/category/mens-shopping-pants-jeans-2,200,OK,Thread Group 1-1,text,true,,121494,678,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,61,0,0
+1661676989608,823,https://ajkerdeal.com/category/mens-shopping-pants-jeans-3,200,OK,Thread Group 1-1,text,true,,113033,676,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,296,0,0
+1661676989610,115,https://ajkerdeal.com/category/mens-shopping-pants-jeans-4,200,OK,Thread Group 1-1,text,true,,9381,693,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,115,0,0
+1661676989604,63,https://ajkerdeal.com/category/mens-shopping-pants-jeans-5,200,OK,Thread Group 1-1,text,true,,12202,695,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,63,0,0
+1661676989606,61,https://ajkerdeal.com/category/mens-shopping-pants-jeans-6,200,OK,Thread Group 1-1,text,true,,7171,686,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,61,0,0
+1661676989680,46,https://ajkerdeal.com/category/mens-shopping-pants-jeans-7,200,OK,Thread Group 1-1,text,true,,32098,656,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,41,0,24
+1661676989684,249,https://ajkerdeal.com/category/mens-shopping-pants-jeans-8,304,Not Modified,Thread Group 1-1,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,120
+1661676989695,548,https://ajkerdeal.com/category/mens-shopping-pants-jeans-9,200,OK,Thread Group 1-1,text,true,,113034,690,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,123,0,0
+1661676989743,291,https://ajkerdeal.com/category/mens-shopping-pants-jeans-10,200,OK,Thread Group 1-1,text,true,,17085,701,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,291,0,0
+1661676989762,75,https://ajkerdeal.com/category/mens-shopping-pants-jeans-11,200,OK,Thread Group 1-1,text,true,,17195,682,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,75,0,0
+1661676989851,163,https://ajkerdeal.com/category/mens-shopping-pants-jeans-12,200,OK,Thread Group 1-1,text,true,,10229,685,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,158,0,0
+1661676989933,138,https://ajkerdeal.com/category/mens-shopping-pants-jeans-13,304,Not Modified,Thread Group 1-1,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,0
+1661676990014,117,https://ajkerdeal.com/category/mens-shopping-pants-jeans-14,304,Not Modified,Thread Group 1-1,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,0
+1661676990060,1380,https://ajkerdeal.com/category/mens-shopping-pants-jeans-15,200,OK,Thread Group 1-1,text,true,,89959,617,2,2,https://code.jquery.com/jquery-3.6.0.min.js,994,0,693
+1661676990071,60,https://ajkerdeal.com/category/mens-shopping-pants-jeans-16,304,Not Modified,Thread Group 1-1,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661676990132,61,https://ajkerdeal.com/category/mens-shopping-pants-jeans-17,304,Not Modified,Thread Group 1-1,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661676990131,62,https://ajkerdeal.com/category/mens-shopping-pants-jeans-18,304,Not Modified,Thread Group 1-1,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661676990164,73,https://ajkerdeal.com/category/mens-shopping-pants-jeans-19,304,Not Modified,Thread Group 1-1,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661676990193,55,https://ajkerdeal.com/category/mens-shopping-pants-jeans-20,200,OK,Thread Group 1-1,text,true,,1603,680,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,54,0,0
+1661676990193,131,https://ajkerdeal.com/category/mens-shopping-pants-jeans-21,200,OK,Thread Group 1-1,text,true,,1368,676,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,131,0,0
+1661676990237,692,https://ajkerdeal.com/category/mens-shopping-pants-jeans-22,200,OK,Thread Group 1-1,bin,true,,55768,687,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,78,0,0
+1661676990251,65,https://ajkerdeal.com/category/mens-shopping-pants-jeans-23,200,OK,Thread Group 1-1,text,true,,4082,685,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,65,0,0
+1661676965940,2391,Jeans,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,777745,17054,2,2,null,120,23112,0
+1661676991287,1867,https://ajkerdeal.com/category/mens-shopping-pants-jeans,200,OK,Thread Group 1-2,text,true,,688091,17139,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,116,0,0
+1661676991287,490,https://ajkerdeal.com/category/mens-shopping-pants-jeans-0,200,OK,Thread Group 1-2,text,true,,169610,682,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,116,0,0
+1661676991787,61,https://ajkerdeal.com/category/mens-shopping-pants-jeans-1,304,Not Modified,Thread Group 1-2,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,0
+1661676991787,1125,https://ajkerdeal.com/category/mens-shopping-pants-jeans-2,200,OK,Thread Group 1-2,text,true,,121494,678,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,317,0,122
+1661676991787,359,https://ajkerdeal.com/category/mens-shopping-pants-jeans-3,200,OK,Thread Group 1-2,text,true,,113033,676,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,79,0,0
+1661676991787,66,https://ajkerdeal.com/category/mens-shopping-pants-jeans-4,200,OK,Thread Group 1-2,text,true,,9381,693,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,66,0,0
+1661676991787,66,https://ajkerdeal.com/category/mens-shopping-pants-jeans-5,200,OK,Thread Group 1-2,text,true,,12202,695,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,66,0,0
+1661676991788,69,https://ajkerdeal.com/category/mens-shopping-pants-jeans-6,200,OK,Thread Group 1-2,text,true,,7171,686,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,69,0,0
+1661676991849,67,https://ajkerdeal.com/category/mens-shopping-pants-jeans-7,200,OK,Thread Group 1-2,text,true,,32098,656,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,19,0,0
+1661676991854,328,https://ajkerdeal.com/category/mens-shopping-pants-jeans-8,304,Not Modified,Thread Group 1-2,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,219
+1661676991854,749,https://ajkerdeal.com/category/mens-shopping-pants-jeans-9,200,OK,Thread Group 1-2,text,true,,113034,690,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,167,0,0
+1661676991858,111,https://ajkerdeal.com/category/mens-shopping-pants-jeans-10,200,OK,Thread Group 1-2,text,true,,17085,701,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,111,0,0
+1661676991917,502,https://ajkerdeal.com/category/mens-shopping-pants-jeans-11,200,OK,Thread Group 1-2,text,true,,17195,682,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,502,0,111
+1661676991970,212,https://ajkerdeal.com/category/mens-shopping-pants-jeans-12,200,OK,Thread Group 1-2,text,true,,10229,685,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,203,0,0
+1661676992147,184,https://ajkerdeal.com/category/mens-shopping-pants-jeans-13,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,0
+1661676992182,363,https://ajkerdeal.com/category/mens-shopping-pants-jeans-14,304,Not Modified,Thread Group 1-2,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,0
+1661676992183,971,https://ajkerdeal.com/category/mens-shopping-pants-jeans-15,304,Not Modified,Thread Group 1-2,,true,,307,702,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,747
+1661676992332,106,https://ajkerdeal.com/category/mens-shopping-pants-jeans-16,304,Not Modified,Thread Group 1-2,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661676992419,61,https://ajkerdeal.com/category/mens-shopping-pants-jeans-17,304,Not Modified,Thread Group 1-2,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661676992438,64,https://ajkerdeal.com/category/mens-shopping-pants-jeans-18,304,Not Modified,Thread Group 1-2,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661676992480,65,https://ajkerdeal.com/category/mens-shopping-pants-jeans-19,304,Not Modified,Thread Group 1-2,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661676992502,66,https://ajkerdeal.com/category/mens-shopping-pants-jeans-20,200,OK,Thread Group 1-2,text,true,,1603,680,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,66,0,0
+1661676992546,112,https://ajkerdeal.com/category/mens-shopping-pants-jeans-21,200,OK,Thread Group 1-2,text,true,,1366,676,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,112,0,0
+1661676992546,197,https://ajkerdeal.com/category/mens-shopping-pants-jeans-22,200,OK,Thread Group 1-2,bin,true,,55768,687,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,64,0,0
+1661676992569,54,https://ajkerdeal.com/category/mens-shopping-pants-jeans-23,200,OK,Thread Group 1-2,text,true,,4082,685,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,54,0,0
+1661676965242,1867,Jeans,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,688091,17139,2,2,null,116,26046,0
+1661677024973,1698,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,200,OK,Thread Group 1-2,text,true,,169100,18336,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,219,0,0
+1661677024973,543,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-0,200,OK,Thread Group 1-2,text,true,,162114,685,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,219,0,0
+1661677025527,186,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-1,304,Not Modified,Thread Group 1-2,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,126
+1661677025526,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-2,304,Not Modified,Thread Group 1-2,,true,,130,763,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,0,0,0
+1661677025528,166,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-3,304,Not Modified,Thread Group 1-2,,true,,131,762,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,0,0,113
+1661677025530,162,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-4,304,Not Modified,Thread Group 1-2,,true,,131,779,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,0,0,111
+1661677025530,167,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-5,304,Not Modified,Thread Group 1-2,,true,,131,781,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,0,0,115
+1661677025531,161,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-6,304,Not Modified,Thread Group 1-2,,true,,131,772,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,0,0,110
+1661677025581,32,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-7,304,Not Modified,Thread Group 1-2,,true,,1022,740,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,0,0,20
+1661677025613,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-8,304,Not Modified,Thread Group 1-2,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,0
+1661677025668,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-9,304,Not Modified,Thread Group 1-2,,true,,203,776,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,0,0,0
+1661677025693,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-10,304,Not Modified,Thread Group 1-2,,true,,203,787,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,0,0,0
+1661677025693,88,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-11,304,Not Modified,Thread Group 1-2,,true,,203,768,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,0,0,0
+1661677025694,231,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-12,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,0,0,121
+1661677025698,229,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-13,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,123
+1661677025714,230,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-14,304,Not Modified,Thread Group 1-2,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,120
+1661677025721,950,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-15,304,Not Modified,Thread Group 1-2,,true,,307,652,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,720
+1661677025749,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-16,304,Not Modified,Thread Group 1-2,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661677025781,52,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-17,304,Not Modified,Thread Group 1-2,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677025805,58,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-18,304,Not Modified,Thread Group 1-2,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677025834,56,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-19,304,Not Modified,Thread Group 1-2,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677025864,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-20,304,Not Modified,Thread Group 1-2,,true,,130,765,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,0,0,0
+1661677025890,234,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-21,304,Not Modified,Thread Group 1-2,,true,,676,777,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,0,0,125
+1661677025917,119,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-22,304,Not Modified,Thread Group 1-2,bin,true,,351,788,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,0,0,60
+1661677025926,52,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-23,304,Not Modified,Thread Group 1-2,,true,,130,770,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,0,0,0
+1661676993156,1698,Cotton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,169100,18336,2,2,null,219,31818,0
+1661677026672,7203,https://ajkerdeal.com/,200,OK,Thread Group 1-2,text,true,,3512571,42240,2,2,https://ajkerdeal.com/,110,0,0
+1661677026672,381,https://ajkerdeal.com/-0,200,OK,Thread Group 1-2,text,true,,215024,596,2,2,https://ajkerdeal.com/,110,0,0
+1661677027065,2718,https://ajkerdeal.com/-1,200,OK,Thread Group 1-2,text,true,,854665,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/firebase/8.2.2/firebase.js,46,0,28
+1661677027067,2533,https://ajkerdeal.com/-2,200,OK,Thread Group 1-2,text,true,,333056,636,2,2,https://www.gstatic.com/firebasejs/8.6.2/firebase-firestore.js,383,0,246
+1661677027066,5237,https://ajkerdeal.com/-3,200,OK,Thread Group 1-2,text,true,,205202,683,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,1937,0,0
+1661677027067,408,https://ajkerdeal.com/-4,200,OK,Thread Group 1-2,text,true,,2215,680,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,408,0,0
+1661677027067,1250,https://ajkerdeal.com/-5,200,OK,Thread Group 1-2,text,true,,17123,702,2,2,"https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",1058,0,877
+1661677027068,4426,https://ajkerdeal.com/-6,200,OK,Thread Group 1-2,text,true,,89959,617,2,2,https://code.jquery.com/jquery-3.6.0.min.js,3695,0,2929
+1661677027476,3244,https://ajkerdeal.com/-7,200,OK,Thread Group 1-2,text,true,,44641,688,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.js,2307,0,0
+1661677028332,147,https://ajkerdeal.com/-8,200,OK,Thread Group 1-2,text,true,,3635,689,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.css,147,0,0
+1661677028480,141,https://ajkerdeal.com/-9,200,OK,Thread Group 1-2,text,true,,1664,690,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.theme.default.css,141,0,0
+1661677028622,2032,https://ajkerdeal.com/-10,200,OK,Thread Group 1-2,text,true,,113034,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css,567,0,0
+1661677029600,88,https://ajkerdeal.com/-11,200,OK,Thread Group 1-2,text,true,,1284,680,2,2,https://ajkerdeal.com/css/chaldal/third-party-home.css,88,0,0
+1661677029688,131,https://ajkerdeal.com/-12,200,OK,Thread Group 1-2,text,true,,17085,696,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css,131,0,0
+1661677029783,210,https://ajkerdeal.com/-13,200,OK,Thread Group 1-2,text,true,,42032,676,2,2,https://ajkerdeal.com/newhome/css/font-awesome.css,92,0,0
+1661677029819,114,https://ajkerdeal.com/-14,200,OK,Thread Group 1-2,text,true,,16687,677,2,2,https://ajkerdeal.com/newhome/css/themify-icons.css,113,0,0
+1661677029933,85,https://ajkerdeal.com/-15,200,OK,Thread Group 1-2,text,true,,4467,674,2,2,https://ajkerdeal.com/newhome/css/niceselect.css,85,0,0
+1661677029994,135,https://ajkerdeal.com/-16,200,OK,Thread Group 1-2,text,true,,39141,669,2,2,https://ajkerdeal.com/newhome/css/reset.css,92,0,0
+1661677030018,3678,https://ajkerdeal.com/-17,200,OK,Thread Group 1-2,text,true,,127572,669,2,2,https://ajkerdeal.com/newhome/css/style.css,360,0,0
+1661677030130,153,https://ajkerdeal.com/-18,200,OK,Thread Group 1-2,text,true,,45047,674,2,2,https://ajkerdeal.com/newhome/css/responsive.css,98,0,0
+1661677030284,179,https://ajkerdeal.com/-19,200,OK,Thread Group 1-2,text,true,,10228,685,2,2,http://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,179,0,0
+1661677030463,112,https://ajkerdeal.com/-20,200,OK,Thread Group 1-2,bin,true,,1165,685,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,112,0,0
+1661677030576,146,https://ajkerdeal.com/-21,200,OK,Thread Group 1-2,text,true,,1413,683,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,146,0,0
+1661677030655,605,https://ajkerdeal.com/-22,200,OK,Thread Group 1-2,bin,true,,151286,692,2,2,https://static.ajkerdeal.com/images/event/2022/eiduiadha/Event.gif,241,0,179
+1661677030721,114,https://ajkerdeal.com/-23,200,OK,Thread Group 1-2,bin,true,,22947,680,2,2,https://static.ajkerdeal.com/images/kurbanirhat/bg.jpg,109,0,0
+1661677030723,110,https://ajkerdeal.com/-24,200,OK,Thread Group 1-2,text,true,,9717,708,2,2,https://static.ajkerdeal.com/images/deals/757542106195500/s1_korbanir-cow-031.webp,109,0,0
+1661677030834,114,https://ajkerdeal.com/-25,200,OK,Thread Group 1-2,bin,true,,15748,699,2,2,https://static.ajkerdeal.com/images/deals/757542106161045/smallimage1.jpg,114,0,0
+1661677030835,679,https://ajkerdeal.com/-26,200,OK,Thread Group 1-2,bin,true,,19252,699,2,2,https://static.ajkerdeal.com/images/deals/757542106160112/smallimage1.jpg,176,0,0
+1661677030949,221,https://ajkerdeal.com/-27,200,OK,Thread Group 1-2,bin,true,,23631,699,2,2,https://static.ajkerdeal.com/images/deals/765310607171119/smallimage1.jpg,185,0,0
+1661677031170,145,https://ajkerdeal.com/-28,200,OK,Thread Group 1-2,bin,true,,30721,699,2,2,https://static.ajkerdeal.com/images/deals/142851307141858/smallimage1.jpg,109,0,0
+1661677031260,129,https://ajkerdeal.com/-29,200,OK,Thread Group 1-2,bin,true,,23518,699,2,2,https://static.ajkerdeal.com/images/deals/765310607164918/smallimage1.jpg,110,0,0
+1661677031315,158,https://ajkerdeal.com/-30,200,OK,Thread Group 1-2,bin,true,,26145,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133929/smallimage1.jpg,109,0,0
+1661677031390,178,https://ajkerdeal.com/-31,200,OK,Thread Group 1-2,bin,true,,34849,699,2,2,https://static.ajkerdeal.com/images/deals/766130807134143/smallimage1.jpg,114,0,0
+1661677031473,154,https://ajkerdeal.com/-32,200,OK,Thread Group 1-2,bin,true,,21685,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133752/smallimage1.jpg,140,0,0
+1661677031495,190,https://ajkerdeal.com/-33,200,OK,Thread Group 1-2,bin,true,,28299,699,2,2,https://static.ajkerdeal.com/images/deals/766941007173004/smallimage1.jpg,153,0,0
+1661677031515,791,https://ajkerdeal.com/-34,200,OK,Thread Group 1-2,text,true,,28706,718,2,2,https://static.ajkerdeal.com/images/deals/766901007131914/s1_shahiwal-cross-qurbani-cow.webp,185,0,0
+1661677031569,218,https://ajkerdeal.com/-35,200,OK,Thread Group 1-2,bin,true,,19584,699,2,2,https://static.ajkerdeal.com/images/deals/768271307172454/smallimage1.jpg,172,0,0
+1661677031628,132,https://ajkerdeal.com/-36,200,OK,Thread Group 1-2,bin,true,,3118,685,2,2,https://static.ajkerdeal.com/images/ad/hotdeal/pcloader.gif,132,0,0
+1661677031685,164,https://ajkerdeal.com/-37,200,OK,Thread Group 1-2,bin,true,,28360,683,2,2,https://static.ajkerdeal.com/images/winter2021/jacket.png,123,0,0
+1661677031760,155,https://ajkerdeal.com/-38,200,OK,Thread Group 1-2,bin,true,,22968,683,2,2,https://static.ajkerdeal.com/images/winter2021/hoodie.png,122,0,0
+1661677031788,170,https://ajkerdeal.com/-39,200,OK,Thread Group 1-2,bin,true,,22197,684,2,2,https://static.ajkerdeal.com/images/winter2021/sweater.png,163,0,0
+1661677031849,179,https://ajkerdeal.com/-40,200,OK,Thread Group 1-2,bin,true,,21868,681,2,2,https://static.ajkerdeal.com/images/winter2021/shal.png,172,0,0
+1661677031915,180,https://ajkerdeal.com/-41,200,OK,Thread Group 1-2,bin,true,,23233,683,2,2,https://static.ajkerdeal.com/images/winter2021/tshirt.png,151,0,0
+1661677031959,177,https://ajkerdeal.com/-42,200,OK,Thread Group 1-2,bin,true,,18703,680,2,2,https://static.ajkerdeal.com/images/winter2021/cap.png,141,0,0
+1661677032029,166,https://ajkerdeal.com/-43,200,OK,Thread Group 1-2,bin,true,,16156,683,2,2,https://static.ajkerdeal.com/images/winter2021/gadget.png,146,0,0
+1661677032095,179,https://ajkerdeal.com/-44,200,OK,Thread Group 1-2,bin,true,,21578,683,2,2,https://static.ajkerdeal.com/images/winter2021/combol.png,140,0,0
+1661677032137,153,https://ajkerdeal.com/-45,200,OK,Thread Group 1-2,text,true,,1224,683,2,2,https://static.ajkerdeal.com/images/winter2021/arroww.svg,153,0,0
+1661677032196,127,https://ajkerdeal.com/-46,200,OK,Thread Group 1-2,text,true,,7952,682,2,2,https://static.ajkerdeal.com/images/livevideode/logo.svg,127,0,0
+1661677032275,112,https://ajkerdeal.com/-47,200,OK,Thread Group 1-2,bin,true,,6471,685,2,2,https://static.ajkerdeal.com/images/muslim-fashion/logo.png,112,0,0
+1661677032291,113,https://ajkerdeal.com/-48,200,OK,Thread Group 1-2,bin,true,,12044,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/hijab.png,112,0,0
+1661677032303,744,https://ajkerdeal.com/-49,200,OK,Thread Group 1-2,bin,true,,14035,687,2,2,https://static.ajkerdeal.com/images/muslim-fashion/khimar.png,316,0,123
+1661677032306,129,https://ajkerdeal.com/-50,200,OK,Thread Group 1-2,bin,true,,10949,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/borka.png,119,0,0
+1661677032323,112,https://ajkerdeal.com/-51,200,OK,Thread Group 1-2,bin,true,,12991,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/abaya.png,112,0,0
+1661677032387,372,https://ajkerdeal.com/-52,200,OK,Thread Group 1-2,bin,true,,13955,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/scarf.png,372,0,0
+1661677032404,638,https://ajkerdeal.com/-53,200,OK,Thread Group 1-2,text,true,,45344,673,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,284,0,0
+1661677032435,420,https://ajkerdeal.com/-54,200,OK,Thread Group 1-2,text,true,,90624,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js,42,0,25
+1661677032436,159,https://ajkerdeal.com/-55,200,OK,Thread Group 1-2,text,true,,7380,690,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,159,0,0
+1661677032596,185,https://ajkerdeal.com/-56,200,OK,Thread Group 1-2,text,true,,39771,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,114,0,0
+1661677032760,1115,https://ajkerdeal.com/-57,200,OK,Thread Group 1-2,text,true,,272537,679,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,132,0,0
+1661677032781,148,https://ajkerdeal.com/-58,200,OK,Thread Group 1-2,text,true,,950,676,2,2,https://ajkerdeal.com/FinalHeader2021/js/header.js,148,0,0
+1661677032855,881,https://ajkerdeal.com/-59,200,OK,Thread Group 1-2,text,true,,144408,673,2,2,https://ajkerdeal.com/newhome/js/nicesellect.js,332,0,0
+1661677032930,101,https://ajkerdeal.com/-60,200,OK,Thread Group 1-2,text,true,,2345,670,2,2,https://ajkerdeal.com/newhome/js/scrollup.js,101,0,0
+1661677033032,536,https://ajkerdeal.com/-61,200,OK,Thread Group 1-2,text,true,,8983,668,2,2,https://ajkerdeal.com/newhome/js/active.js,536,0,0
+1661677026672,7203,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,3512571,42240,2,2,null,110,1,0
+1661677038697,1687,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,200,OK,Thread Group 1-1,text,true,,169094,18386,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,349,0,183
+1661677038697,515,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-0,200,OK,Thread Group 1-1,text,true,,162114,685,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,349,0,183
+1661677039219,190,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-1,304,Not Modified,Thread Group 1-1,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,129
+1661677039218,65,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-2,304,Not Modified,Thread Group 1-1,,true,,130,763,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,0,0,0
+1661677039221,168,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-3,304,Not Modified,Thread Group 1-1,,true,,131,762,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,0,0,115
+1661677039221,450,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-4,304,Not Modified,Thread Group 1-1,,true,,131,779,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,0,0,398
+1661677039222,167,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-5,304,Not Modified,Thread Group 1-1,,true,,131,781,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,0,0,114
+1661677039223,169,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-6,304,Not Modified,Thread Group 1-1,,true,,131,772,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,0,0,117
+1661677039283,14,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-7,304,Not Modified,Thread Group 1-1,,true,,1016,740,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,0,0,0
+1661677039297,165,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-8,304,Not Modified,Thread Group 1-1,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,113
+1661677039389,166,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-9,304,Not Modified,Thread Group 1-1,,true,,203,776,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,0,0,114
+1661677039389,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-10,304,Not Modified,Thread Group 1-1,,true,,203,787,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,0,0,0
+1661677039393,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-11,304,Not Modified,Thread Group 1-1,,true,,203,768,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,0,0,0
+1661677039409,232,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-12,304,Not Modified,Thread Group 1-1,,true,,674,786,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,0,0,123
+1661677039444,232,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-13,304,Not Modified,Thread Group 1-1,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,123
+1661677039447,229,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-14,304,Not Modified,Thread Group 1-1,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,120
+1661677039463,921,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-15,304,Not Modified,Thread Group 1-1,,true,,307,702,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,695
+1661677039555,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-16,304,Not Modified,Thread Group 1-1,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661677039608,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-17,304,Not Modified,Thread Group 1-1,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677039641,52,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-18,304,Not Modified,Thread Group 1-1,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677039664,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-19,304,Not Modified,Thread Group 1-1,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677039671,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-20,304,Not Modified,Thread Group 1-1,,true,,130,765,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,0,0,0
+1661677039676,113,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-21,304,Not Modified,Thread Group 1-1,,true,,676,777,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,0,0,0
+1661677039676,118,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-22,304,Not Modified,Thread Group 1-1,bin,true,,351,788,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,0,0,59
+1661677039694,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-23,304,Not Modified,Thread Group 1-1,,true,,130,770,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,0,0,0
+1661676991443,1687,Cotton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,169094,18386,2,2,null,349,47254,183
+1661677045893,3003,https://ajkerdeal.com/category/mens-shopping-pants-jeans,200,OK,Thread Group 1-2,text,true,,688095,17139,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,112,0,0
+1661677045893,930,https://ajkerdeal.com/category/mens-shopping-pants-jeans-0,200,OK,Thread Group 1-2,text,true,,169610,682,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,112,0,0
+1661677046828,158,https://ajkerdeal.com/category/mens-shopping-pants-jeans-1,304,Not Modified,Thread Group 1-2,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,0
+1661677046828,1214,https://ajkerdeal.com/category/mens-shopping-pants-jeans-2,200,OK,Thread Group 1-2,text,true,,121494,678,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,249,0,0
+1661677046830,2066,https://ajkerdeal.com/category/mens-shopping-pants-jeans-3,200,OK,Thread Group 1-2,text,true,,113033,676,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,1329,0,1030
+1661677046829,90,https://ajkerdeal.com/category/mens-shopping-pants-jeans-4,200,OK,Thread Group 1-2,text,true,,9381,693,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,90,0,0
+1661677046829,262,https://ajkerdeal.com/category/mens-shopping-pants-jeans-5,200,OK,Thread Group 1-2,text,true,,12202,695,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,262,0,0
+1661677046831,242,https://ajkerdeal.com/category/mens-shopping-pants-jeans-6,200,OK,Thread Group 1-2,text,true,,7171,686,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,242,0,0
+1661677046920,673,https://ajkerdeal.com/category/mens-shopping-pants-jeans-7,200,OK,Thread Group 1-2,text,true,,32102,656,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,438,0,0
+1661677046986,198,https://ajkerdeal.com/category/mens-shopping-pants-jeans-8,304,Not Modified,Thread Group 1-2,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,0
+1661677047073,974,https://ajkerdeal.com/category/mens-shopping-pants-jeans-9,200,OK,Thread Group 1-2,text,true,,113034,690,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,276,0,0
+1661677047091,298,https://ajkerdeal.com/category/mens-shopping-pants-jeans-10,200,OK,Thread Group 1-2,text,true,,17085,701,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,298,0,0
+1661677047185,956,https://ajkerdeal.com/category/mens-shopping-pants-jeans-11,200,OK,Thread Group 1-2,text,true,,17195,682,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,956,0,0
+1661677047390,203,https://ajkerdeal.com/category/mens-shopping-pants-jeans-12,200,OK,Thread Group 1-2,text,true,,10229,685,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,203,0,0
+1661677047594,207,https://ajkerdeal.com/category/mens-shopping-pants-jeans-13,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,0
+1661677047594,207,https://ajkerdeal.com/category/mens-shopping-pants-jeans-14,304,Not Modified,Thread Group 1-2,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,0
+1661677047801,1045,https://ajkerdeal.com/category/mens-shopping-pants-jeans-15,304,Not Modified,Thread Group 1-2,,true,,307,702,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,820
+1661677047801,287,https://ajkerdeal.com/category/mens-shopping-pants-jeans-16,304,Not Modified,Thread Group 1-2,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,215
+1661677048042,63,https://ajkerdeal.com/category/mens-shopping-pants-jeans-17,304,Not Modified,Thread Group 1-2,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677048047,58,https://ajkerdeal.com/category/mens-shopping-pants-jeans-18,304,Not Modified,Thread Group 1-2,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677048089,53,https://ajkerdeal.com/category/mens-shopping-pants-jeans-19,304,Not Modified,Thread Group 1-2,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677048105,338,https://ajkerdeal.com/category/mens-shopping-pants-jeans-20,200,OK,Thread Group 1-2,text,true,,1603,680,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,338,0,286
+1661677048105,158,https://ajkerdeal.com/category/mens-shopping-pants-jeans-21,200,OK,Thread Group 1-2,text,true,,1366,676,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,158,0,0
+1661677048142,178,https://ajkerdeal.com/category/mens-shopping-pants-jeans-22,200,OK,Thread Group 1-2,bin,true,,55768,687,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,62,0,0
+1661677048142,56,https://ajkerdeal.com/category/mens-shopping-pants-jeans-23,200,OK,Thread Group 1-2,text,true,,4082,685,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,56,0,0
+1661677033876,3003,Jeans,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,688095,17139,2,2,null,112,12018,0
+1661677040384,8995,https://ajkerdeal.com/,200,OK,Thread Group 1-1,text,true,,3512583,42240,2,2,https://ajkerdeal.com/,159,0,0
+1661677040384,334,https://ajkerdeal.com/-0,200,OK,Thread Group 1-1,text,true,,215024,596,2,2,https://ajkerdeal.com/,159,0,0
+1661677040727,3086,https://ajkerdeal.com/-1,200,OK,Thread Group 1-1,text,true,,854669,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/firebase/8.2.2/firebase.js,33,0,17
+1661677040727,2766,https://ajkerdeal.com/-2,200,OK,Thread Group 1-1,text,true,,333056,636,2,2,https://www.gstatic.com/firebasejs/8.6.2/firebase-firestore.js,695,0,618
+1661677040727,5090,https://ajkerdeal.com/-3,200,OK,Thread Group 1-1,text,true,,205202,683,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,2387,0,0
+1661677040728,161,https://ajkerdeal.com/-4,200,OK,Thread Group 1-1,text,true,,2215,680,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,161,0,0
+1661677040729,1183,https://ajkerdeal.com/-5,200,OK,Thread Group 1-1,text,true,,17123,702,2,2,"https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",801,0,606
+1661677040730,3117,https://ajkerdeal.com/-6,200,OK,Thread Group 1-1,text,true,,89959,617,2,2,https://code.jquery.com/jquery-3.6.0.min.js,1652,0,967
+1661677040889,2926,https://ajkerdeal.com/-7,200,OK,Thread Group 1-1,text,true,,44641,688,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.js,1006,0,0
+1661677041913,137,https://ajkerdeal.com/-8,200,OK,Thread Group 1-1,text,true,,3635,689,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.carousel.min.css,137,0,0
+1661677042050,98,https://ajkerdeal.com/-9,200,OK,Thread Group 1-1,text,true,,1664,690,2,2,https://ajkerdeal.com/digitalhat/sliderlib/owl.theme.default.css,98,0,0
+1661677042149,2212,https://ajkerdeal.com/-10,200,OK,Thread Group 1-1,text,true,,113034,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css,1026,0,0
+1661677043494,117,https://ajkerdeal.com/-11,200,OK,Thread Group 1-1,text,true,,1284,680,2,2,https://ajkerdeal.com/css/chaldal/third-party-home.css,117,0,0
+1661677043612,231,https://ajkerdeal.com/-12,200,OK,Thread Group 1-1,text,true,,17085,696,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css,229,0,0
+1661677043813,491,https://ajkerdeal.com/-13,200,OK,Thread Group 1-1,text,true,,42032,676,2,2,https://ajkerdeal.com/newhome/css/font-awesome.css,298,0,0
+1661677043815,192,https://ajkerdeal.com/-14,200,OK,Thread Group 1-1,text,true,,16687,677,2,2,https://ajkerdeal.com/newhome/css/themify-icons.css,192,0,0
+1661677043844,85,https://ajkerdeal.com/-15,200,OK,Thread Group 1-1,text,true,,4467,674,2,2,https://ajkerdeal.com/newhome/css/niceselect.css,85,0,0
+1661677043847,1920,https://ajkerdeal.com/-16,200,OK,Thread Group 1-1,text,true,,39141,669,2,2,https://ajkerdeal.com/newhome/css/reset.css,1669,0,235
+1661677043929,3999,https://ajkerdeal.com/-17,200,OK,Thread Group 1-1,text,true,,127572,669,2,2,https://ajkerdeal.com/newhome/css/style.css,138,0,0
+1661677044007,371,https://ajkerdeal.com/-18,200,OK,Thread Group 1-1,text,true,,45047,674,2,2,https://ajkerdeal.com/newhome/css/responsive.css,258,0,0
+1661677044305,167,https://ajkerdeal.com/-19,200,OK,Thread Group 1-1,text,true,,10228,685,2,2,http://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,167,0,58
+1661677044362,247,https://ajkerdeal.com/-20,200,OK,Thread Group 1-1,bin,true,,1165,685,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,247,0,137
+1661677044379,112,https://ajkerdeal.com/-21,200,OK,Thread Group 1-1,text,true,,1413,683,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,112,0,0
+1661677044472,617,https://ajkerdeal.com/-22,200,OK,Thread Group 1-1,bin,true,,151286,692,2,2,https://static.ajkerdeal.com/images/event/2022/eiduiadha/Event.gif,197,0,132
+1661677044491,114,https://ajkerdeal.com/-23,200,OK,Thread Group 1-1,bin,true,,22947,680,2,2,https://static.ajkerdeal.com/images/kurbanirhat/bg.jpg,113,0,0
+1661677044605,111,https://ajkerdeal.com/-24,200,OK,Thread Group 1-1,text,true,,9717,708,2,2,https://static.ajkerdeal.com/images/deals/757542106195500/s1_korbanir-cow-031.webp,109,0,0
+1661677044609,138,https://ajkerdeal.com/-25,200,OK,Thread Group 1-1,bin,true,,15748,699,2,2,https://static.ajkerdeal.com/images/deals/757542106161045/smallimage1.jpg,134,0,0
+1661677044716,181,https://ajkerdeal.com/-26,200,OK,Thread Group 1-1,bin,true,,19252,699,2,2,https://static.ajkerdeal.com/images/deals/757542106160112/smallimage1.jpg,144,0,0
+1661677044747,218,https://ajkerdeal.com/-27,200,OK,Thread Group 1-1,bin,true,,23631,699,2,2,https://static.ajkerdeal.com/images/deals/765310607171119/smallimage1.jpg,183,0,0
+1661677044897,162,https://ajkerdeal.com/-28,200,OK,Thread Group 1-1,bin,true,,30721,699,2,2,https://static.ajkerdeal.com/images/deals/142851307141858/smallimage1.jpg,114,0,0
+1661677044965,177,https://ajkerdeal.com/-29,200,OK,Thread Group 1-1,bin,true,,23518,699,2,2,https://static.ajkerdeal.com/images/deals/765310607164918/smallimage1.jpg,135,0,0
+1661677045060,138,https://ajkerdeal.com/-30,200,OK,Thread Group 1-1,bin,true,,26145,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133929/smallimage1.jpg,110,0,0
+1661677045090,189,https://ajkerdeal.com/-31,200,OK,Thread Group 1-1,bin,true,,34849,699,2,2,https://static.ajkerdeal.com/images/deals/766130807134143/smallimage1.jpg,124,0,0
+1661677045142,198,https://ajkerdeal.com/-32,200,OK,Thread Group 1-1,bin,true,,21685,699,2,2,https://static.ajkerdeal.com/images/deals/766130807133752/smallimage1.jpg,157,0,0
+1661677045199,197,https://ajkerdeal.com/-33,200,OK,Thread Group 1-1,bin,true,,28299,699,2,2,https://static.ajkerdeal.com/images/deals/766941007173004/smallimage1.jpg,148,0,0
+1661677045279,198,https://ajkerdeal.com/-34,200,OK,Thread Group 1-1,text,true,,28706,718,2,2,https://static.ajkerdeal.com/images/deals/766901007131914/s1_shahiwal-cross-qurbani-cow.webp,149,0,0
+1661677045341,195,https://ajkerdeal.com/-35,200,OK,Thread Group 1-1,bin,true,,19582,699,2,2,https://static.ajkerdeal.com/images/deals/768271307172454/smallimage1.jpg,150,0,0
+1661677045396,140,https://ajkerdeal.com/-36,200,OK,Thread Group 1-1,bin,true,,3118,685,2,2,https://static.ajkerdeal.com/images/ad/hotdeal/pcloader.gif,135,0,0
+1661677045478,157,https://ajkerdeal.com/-37,200,OK,Thread Group 1-1,bin,true,,28360,683,2,2,https://static.ajkerdeal.com/images/winter2021/jacket.png,110,0,0
+1661677045536,783,https://ajkerdeal.com/-38,200,OK,Thread Group 1-1,bin,true,,22968,683,2,2,https://static.ajkerdeal.com/images/winter2021/hoodie.png,148,0,0
+1661677045536,687,https://ajkerdeal.com/-39,200,OK,Thread Group 1-1,bin,true,,22197,684,2,2,https://static.ajkerdeal.com/images/winter2021/sweater.png,201,0,0
+1661677045636,181,https://ajkerdeal.com/-40,200,OK,Thread Group 1-1,bin,true,,21868,681,2,2,https://static.ajkerdeal.com/images/winter2021/shal.png,150,0,0
+1661677045768,237,https://ajkerdeal.com/-41,200,OK,Thread Group 1-1,bin,true,,23233,683,2,2,https://static.ajkerdeal.com/images/winter2021/tshirt.png,234,0,123
+1661677045817,115,https://ajkerdeal.com/-42,200,OK,Thread Group 1-1,bin,true,,18703,680,2,2,https://static.ajkerdeal.com/images/winter2021/cap.png,112,0,0
+1661677045818,114,https://ajkerdeal.com/-43,200,OK,Thread Group 1-1,bin,true,,16156,683,2,2,https://static.ajkerdeal.com/images/winter2021/gadget.png,111,0,0
+1661677045933,115,https://ajkerdeal.com/-44,200,OK,Thread Group 1-1,bin,true,,21578,683,2,2,https://static.ajkerdeal.com/images/winter2021/combol.png,111,0,0
+1661677045933,107,https://ajkerdeal.com/-45,200,OK,Thread Group 1-1,text,true,,1224,683,2,2,https://static.ajkerdeal.com/images/winter2021/arroww.svg,107,0,0
+1661677046006,116,https://ajkerdeal.com/-46,200,OK,Thread Group 1-1,text,true,,7952,682,2,2,https://static.ajkerdeal.com/images/livevideode/logo.svg,116,0,0
+1661677046040,109,https://ajkerdeal.com/-47,200,OK,Thread Group 1-1,bin,true,,6471,685,2,2,https://static.ajkerdeal.com/images/muslim-fashion/logo.png,109,0,0
+1661677046048,119,https://ajkerdeal.com/-48,200,OK,Thread Group 1-1,bin,true,,12044,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/hijab.png,115,0,0
+1661677046123,145,https://ajkerdeal.com/-49,200,OK,Thread Group 1-1,bin,true,,14035,687,2,2,https://static.ajkerdeal.com/images/muslim-fashion/khimar.png,118,0,0
+1661677046149,156,https://ajkerdeal.com/-50,200,OK,Thread Group 1-1,bin,true,,10949,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/borka.png,146,0,0
+1661677046167,187,https://ajkerdeal.com/-51,200,OK,Thread Group 1-1,bin,true,,12991,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/abaya.png,175,0,0
+1661677046224,426,https://ajkerdeal.com/-52,200,OK,Thread Group 1-1,bin,true,,13955,686,2,2,https://static.ajkerdeal.com/images/muslim-fashion/scarf.png,311,0,0
+1661677046269,1546,https://ajkerdeal.com/-53,200,OK,Thread Group 1-1,text,true,,45344,673,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,1025,0,0
+1661677046305,793,https://ajkerdeal.com/-54,200,OK,Thread Group 1-1,text,true,,90634,639,2,2,https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js,67,0,0
+1661677046319,222,https://ajkerdeal.com/-55,200,OK,Thread Group 1-1,text,true,,7380,690,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,222,0,0
+1661677046354,1202,https://ajkerdeal.com/-56,200,OK,Thread Group 1-1,text,true,,39771,685,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,376,0,0
+1661677046542,2837,https://ajkerdeal.com/-57,200,OK,Thread Group 1-1,text,true,,272537,679,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,239,0,0
+1661677046650,115,https://ajkerdeal.com/-58,200,OK,Thread Group 1-1,text,true,,950,676,2,2,https://ajkerdeal.com/FinalHeader2021/js/header.js,115,0,0
+1661677046765,1744,https://ajkerdeal.com/-59,200,OK,Thread Group 1-1,text,true,,144408,673,2,2,https://ajkerdeal.com/newhome/js/nicesellect.js,214,0,0
+1661677047098,703,https://ajkerdeal.com/-60,200,OK,Thread Group 1-1,text,true,,2345,670,2,2,https://ajkerdeal.com/newhome/js/scrollup.js,703,0,540
+1661677047557,362,https://ajkerdeal.com/-61,200,OK,Thread Group 1-1,text,true,,8983,668,2,2,https://ajkerdeal.com/newhome/js/active.js,362,0,0
+1661677040384,8995,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3512583,42240,2,2,null,159,1,0
+1661677079372,2075,https://ajkerdeal.com/category/mens-shopping-pants-jeans,200,OK,Thread Group 1-1,text,true,,777681,17139,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,165,0,0
+1661677079372,590,https://ajkerdeal.com/category/mens-shopping-pants-jeans-0,200,OK,Thread Group 1-1,text,true,,169610,682,2,2,https://ajkerdeal.com/category/mens-shopping-pants-jeans,165,0,0
+1661677079966,135,https://ajkerdeal.com/category/mens-shopping-pants-jeans-1,304,Not Modified,Thread Group 1-1,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,0
+1661677079966,441,https://ajkerdeal.com/category/mens-shopping-pants-jeans-2,200,OK,Thread Group 1-1,text,true,,121494,678,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,55,0,0
+1661677079967,921,https://ajkerdeal.com/category/mens-shopping-pants-jeans-3,200,OK,Thread Group 1-1,text,true,,113033,676,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,111,0,0
+1661677079967,109,https://ajkerdeal.com/category/mens-shopping-pants-jeans-4,200,OK,Thread Group 1-1,text,true,,9381,693,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,109,0,0
+1661677079968,109,https://ajkerdeal.com/category/mens-shopping-pants-jeans-5,200,OK,Thread Group 1-1,text,true,,12202,695,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,109,0,0
+1661677079968,57,https://ajkerdeal.com/category/mens-shopping-pants-jeans-6,200,OK,Thread Group 1-1,text,true,,7171,686,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,57,0,0
+1661677080026,37,https://ajkerdeal.com/category/mens-shopping-pants-jeans-7,200,OK,Thread Group 1-1,text,true,,32084,656,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,33,0,16
+1661677080064,53,https://ajkerdeal.com/category/mens-shopping-pants-jeans-8,304,Not Modified,Thread Group 1-1,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,0
+1661677080077,1168,https://ajkerdeal.com/category/mens-shopping-pants-jeans-9,200,OK,Thread Group 1-1,text,true,,113034,690,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,87,0,0
+1661677080077,123,https://ajkerdeal.com/category/mens-shopping-pants-jeans-10,200,OK,Thread Group 1-1,text,true,,17085,701,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,123,0,0
+1661677080101,359,https://ajkerdeal.com/category/mens-shopping-pants-jeans-11,200,OK,Thread Group 1-1,text,true,,17195,682,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,358,0,0
+1661677080117,338,https://ajkerdeal.com/category/mens-shopping-pants-jeans-12,200,OK,Thread Group 1-1,text,true,,10229,685,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,338,0,0
+1661677080200,207,https://ajkerdeal.com/category/mens-shopping-pants-jeans-13,304,Not Modified,Thread Group 1-1,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,0
+1661677080408,110,https://ajkerdeal.com/category/mens-shopping-pants-jeans-14,304,Not Modified,Thread Group 1-1,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,0
+1661677080408,1039,https://ajkerdeal.com/category/mens-shopping-pants-jeans-15,200,OK,Thread Group 1-1,text,true,,89909,702,2,2,https://code.jquery.com/jquery-3.6.0.min.js,787,0,537
+1661677080456,55,https://ajkerdeal.com/category/mens-shopping-pants-jeans-16,304,Not Modified,Thread Group 1-1,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661677080460,53,https://ajkerdeal.com/category/mens-shopping-pants-jeans-17,304,Not Modified,Thread Group 1-1,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677080512,54,https://ajkerdeal.com/category/mens-shopping-pants-jeans-18,304,Not Modified,Thread Group 1-1,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677080514,52,https://ajkerdeal.com/category/mens-shopping-pants-jeans-19,304,Not Modified,Thread Group 1-1,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677080518,55,https://ajkerdeal.com/category/mens-shopping-pants-jeans-20,200,OK,Thread Group 1-1,text,true,,1603,680,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,54,0,0
+1661677080567,214,https://ajkerdeal.com/category/mens-shopping-pants-jeans-21,200,OK,Thread Group 1-1,text,true,,1368,676,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,214,0,0
+1661677080567,327,https://ajkerdeal.com/category/mens-shopping-pants-jeans-22,200,OK,Thread Group 1-1,bin,true,,55768,687,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,65,0,0
+1661677080573,59,https://ajkerdeal.com/category/mens-shopping-pants-jeans-23,200,OK,Thread Group 1-1,text,true,,4082,685,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,59,0,0
+1661677049380,2075,Jeans,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,777681,17139,2,2,null,165,29995,0
+1661677096956,1745,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,200,OK,Thread Group 1-2,text,true,,169096,18336,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,164,0,0
+1661677096956,592,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-0,200,OK,Thread Group 1-2,text,true,,162114,685,2,2,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,164,0,0
+1661677097552,349,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-1,304,Not Modified,Thread Group 1-2,text,true,,366,781,2,2,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,286
+1661677097552,235,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-2,304,Not Modified,Thread Group 1-2,,true,,130,763,2,2,https://ajkerdeal.com/Category2021_new/bootstrap.css,0,0,183
+1661677097552,169,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-3,304,Not Modified,Thread Group 1-2,,true,,131,762,2,2,https://ajkerdeal.com/css/common-css/bootstrap.css,0,0,117
+1661677097553,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-4,304,Not Modified,Thread Group 1-2,,true,,131,779,2,2,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,0,0,0
+1661677097552,233,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-5,304,Not Modified,Thread Group 1-2,,true,,131,781,2,2,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,0,0,180
+1661677097553,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-6,304,Not Modified,Thread Group 1-2,,true,,131,772,2,2,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,0,0,0
+1661677097610,30,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-7,304,Not Modified,Thread Group 1-2,,true,,1018,740,2,2,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,0,0,17
+1661677097611,166,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-8,304,Not Modified,Thread Group 1-2,,true,,131,769,2,2,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,114
+1661677097640,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-9,304,Not Modified,Thread Group 1-2,,true,,203,776,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,0,0,0
+1661677097694,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-10,304,Not Modified,Thread Group 1-2,,true,,203,787,2,2,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,0,0,0
+1661677097721,56,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-11,304,Not Modified,Thread Group 1-2,,true,,203,768,2,2,https://ajkerdeal.com/css/common-css/responsive.css?v=01,0,0,0
+1661677097747,293,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-12,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,0,0,183
+1661677097777,232,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-13,304,Not Modified,Thread Group 1-2,,true,,674,786,2,2,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,125
+1661677097777,293,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-14,304,Not Modified,Thread Group 1-2,,true,,672,784,2,2,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,184
+1661677097786,915,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-15,304,Not Modified,Thread Group 1-2,,true,,307,652,2,2,https://code.jquery.com/jquery-3.6.0.min.js,0,0,690
+1661677097787,170,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-16,304,Not Modified,Thread Group 1-2,,true,,129,757,2,2,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,115
+1661677097901,56,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-17,304,Not Modified,Thread Group 1-2,,true,,128,773,2,2,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677097957,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-18,304,Not Modified,Thread Group 1-2,,true,,131,771,2,2,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677097957,52,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-19,304,Not Modified,Thread Group 1-2,,true,,202,764,2,2,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677098010,52,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-20,304,Not Modified,Thread Group 1-2,,true,,130,765,2,2,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,0,0,0
+1661677098010,230,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-21,304,Not Modified,Thread Group 1-2,,true,,676,777,2,2,https://static.ajkerdeal.com/images/icon/arrow.svg,0,0,122
+1661677098010,120,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-22,304,Not Modified,Thread Group 1-2,bin,true,,351,788,2,2,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,0,0,60
+1661677098040,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-23,304,Not Modified,Thread Group 1-2,,true,,130,770,2,2,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,0,0,0
+1661677048897,1745,Cotton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,169096,18336,2,2,null,164,48059,0
+1661677121389,1685,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,200,OK,Thread Group 1-1,text,true,,169100,18386,1,1,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,337,0,110
+1661677121389,506,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-0,200,OK,Thread Group 1-1,text,true,,162114,685,1,1,https://ajkerdeal.com/category/womens-fashion-sharee-cotton,337,0,110
+1661677121900,187,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-1,304,Not Modified,Thread Group 1-1,text,true,,366,781,1,1,https://static.ajkerdeal.com/images/ajkerdeal_logo.ico,0,0,124
+1661677121900,166,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-2,304,Not Modified,Thread Group 1-1,,true,,130,763,1,1,https://ajkerdeal.com/Category2021_new/bootstrap.css,0,0,111
+1661677121900,84,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-3,304,Not Modified,Thread Group 1-1,,true,,131,762,1,1,https://ajkerdeal.com/css/common-css/bootstrap.css,0,0,0
+1661677121900,245,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-4,304,Not Modified,Thread Group 1-1,,true,,131,779,1,1,https://ajkerdeal.com/css/common-css/common-page-structure-2016.css,0,0,187
+1661677121900,245,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-5,304,Not Modified,Thread Group 1-1,,true,,131,781,1,1,https://ajkerdeal.com/css/categorystyle/categorypagestylesheetnew.css,0,0,187
+1661677121900,245,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-6,304,Not Modified,Thread Group 1-1,,true,,131,772,1,1,https://ajkerdeal.com/css/checkout/reg-overlay-view-cart.css,0,0,191
+1661677121985,42,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-7,304,Not Modified,Thread Group 1-1,,true,,1022,740,1,1,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css,0,0,23
+1661677122028,171,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-8,304,Not Modified,Thread Group 1-1,,true,,131,769,1,1,https://ajkerdeal.com/CommonJs/DesktopGoogletagManager.js,0,0,118
+1661677122066,53,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-9,304,Not Modified,Thread Group 1-1,,true,,203,776,1,1,https://ajkerdeal.com/FinalHeader2021/css/new-bootstrap.css?v=01,0,0,0
+1661677122087,58,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-10,304,Not Modified,Thread Group 1-1,,true,,203,787,1,1,https://ajkerdeal.com/FinalHeader2021/css/new-header-style-updated.css?v=01,0,0,0
+1661677122119,57,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-11,304,Not Modified,Thread Group 1-1,,true,,203,768,1,1,https://ajkerdeal.com/css/common-css/responsive.css?v=01,0,0,0
+1661677122146,236,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-12,304,Not Modified,Thread Group 1-1,,true,,674,786,1,1,https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg,0,0,127
+1661677122146,229,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-13,304,Not Modified,Thread Group 1-1,,true,,674,786,1,1,https://static.ajkerdeal.com/images/newsite/search-icon.png,0,0,122
+1661677122147,235,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-14,304,Not Modified,Thread Group 1-1,,true,,672,784,1,1,https://static.ajkerdeal.com/images/desktop-home/cart.svg,0,0,126
+1661677122147,927,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-15,304,Not Modified,Thread Group 1-1,,true,,307,702,1,1,https://code.jquery.com/jquery-3.6.0.min.js,0,0,700
+1661677122177,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-16,304,Not Modified,Thread Group 1-1,,true,,129,757,1,1,https://ajkerdeal.com/js/common-js/bootstrap.js,0,0,0
+1661677122200,54,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-17,304,Not Modified,Thread Group 1-1,,true,,128,773,1,1,https://ajkerdeal.com/FinalHeader2021/js/jquery-migrate-3.0.0.js,0,0,0
+1661677122232,57,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-18,304,Not Modified,Thread Group 1-1,,true,,131,771,1,1,https://ajkerdeal.com/FinalHeader2021/css/jquery-ui-new.css,0,0,0
+1661677122254,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-19,304,Not Modified,Thread Group 1-1,,true,,202,764,1,1,https://ajkerdeal.com/FinalHeader2021/js/jQuery-ui.js,0,0,0
+1661677122289,55,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-20,304,Not Modified,Thread Group 1-1,,true,,130,765,1,1,https://ajkerdeal.com/FinalHeader2021/css/megamenu.css,0,0,0
+1661677122310,236,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-21,304,Not Modified,Thread Group 1-1,,true,,676,777,1,1,https://static.ajkerdeal.com/images/icon/arrow.svg,0,0,125
+1661677122345,117,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-22,304,Not Modified,Thread Group 1-1,bin,true,,351,788,1,1,http://static.ajkerdeal.com/images/dealdetails/loader-02.gif,0,0,58
+1661677122376,51,https://ajkerdeal.com/category/womens-fashion-sharee-cotton-23,304,Not Modified,Thread Group 1-1,,true,,130,770,1,1,https://ajkerdeal.com/Category2021_new/PaginitionBootpag.js,0,0,0
+1661677081450,1685,Cotton,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,169100,18386,1,1,null,337,39939,110
