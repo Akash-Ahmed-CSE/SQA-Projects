@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1662055635534,1612,Login,200,OK,Thread Group 1-1,text,true,,9797,282,5,5,https://www.opencart.com/xoplatform/logger/api/logger,1576,0,513
+1662055636052,1097,Login,200,OK,Thread Group 1-4,text,true,,9797,281,5,5,https://www.opencart.com/xoplatform/logger/api/logger,1083,0,58
+1662055635593,1556,Login,200,OK,Thread Group 1-2,text,true,,9797,285,5,5,https://www.opencart.com/xoplatform/logger/api/logger,1530,0,455
+1662055635794,1384,Login,200,OK,Thread Group 1-3,text,true,,9797,291,2,2,https://www.opencart.com/xoplatform/logger/api/logger,1353,0,257
+1662055636192,1382,Login,200,OK,Thread Group 1-5,text,true,,9797,276,1,1,https://www.opencart.com/xoplatform/logger/api/logger,1120,0,34
