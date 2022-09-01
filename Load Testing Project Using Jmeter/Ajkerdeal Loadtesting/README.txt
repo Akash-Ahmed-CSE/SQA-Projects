@@ -1,5 +1,4 @@
-How to extract data for reporting in jmeter
-============================================
+
 Dear Concerned, 
 
 I’ve completed performance test on frequently used API for test App. 
