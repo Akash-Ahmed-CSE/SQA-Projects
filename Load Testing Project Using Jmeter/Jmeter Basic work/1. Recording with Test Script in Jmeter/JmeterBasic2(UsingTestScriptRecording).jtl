@@ -1,7 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1662615378763,886,LaunchWikipedia,200,OK,Thread Group 1-1,text,true,,19663,449,1,1,https://www.wikipedia.org/,883,0,742
-1662615379652,1290,SearchWikipedia,200,OK,Thread Group 1-1,text,true,,24774,2144,1,1,https://en.wikipedia.org/wiki/Jmeter,337,0,0
-1662615379652,337,SearchWikipedia-0,302,Found,Thread Group 1-1,text,true,,1549,573,1,1,https://www.wikipedia.org/search-redirect.php?family=Wikipedia&language=en&search=jmeter&language=en&go=Go,337,0,0
-1662615379991,491,SearchWikipedia-1,302,Found,Thread Group 1-1,text,true,,1729,531,1,1,https://en.wikipedia.org/wiki/Special:Search?search=jmeter&go=Go,491,0,151
-1662615380482,369,SearchWikipedia-2,302,Found,Thread Group 1-1,text,true,,1695,537,1,1,https://en.wikipedia.org/wiki/Special:Search?go=Go&search=jmeter&ns0=1,369,0,0
-1662615380852,90,SearchWikipedia-3,200,OK,Thread Group 1-1,text,true,,19801,503,1,1,https://en.wikipedia.org/wiki/Jmeter,81,0,0
