@@ -1,4 +1,5 @@
 Dear Concerned, 
 
-I have Completed a APL test of Book ordering site. This is just a exercise to learn about the Postman and Newman.
-In this project GET, POST, PATCH, DELETE was used.
+This is a simple Simple Grocery Store API. Here in this API new cart was created, new iteam was generated and different tests were performed like GET, POST,PUT, PATCH,DELETE.
+
+Sunnary: total 20 assertions were done. All of them passed with 0  skipped tests.
